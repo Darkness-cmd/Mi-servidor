@@ -127,6 +127,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-07-16 15:08:01 +0000",
+      "minecraft:beach": "2024-07-16 14:59:50 +0000",
+      "minecraft:river": "2024-07-16 15:05:59 +0000",
+      "minecraft:cold_ocean": "2024-07-16 14:58:31 +0000",
+      "minecraft:forest": "2024-07-16 15:05:52 +0000",
+      "minecraft:deep_cold_ocean": "2024-07-16 14:58:44 +0000",
       "minecraft:plains": "2024-07-16 13:48:49 +0000"
     },
     "done": false
@@ -155,77 +161,83 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
+      "location1": "2024-07-16 14:58:33 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-07-16 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-07-16 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-07-16 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-07-16 14:59:01 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
+      "minecraft:pillager": "2024-07-16 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-07-16 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-07-16 14:59:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-07-16 14:59:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-07-16 14:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-07-16 14:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2024-07-16 15:05:36 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
+      "get_stone": "2024-07-16 15:06:13 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-16 14:17:41 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
