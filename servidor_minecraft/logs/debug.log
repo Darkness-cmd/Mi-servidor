@@ -12473,3 +12473,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jul2024 12:41:09.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 left the game
 [16Jul2024 12:41:09.606] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DarknessVT666
 [16Jul2024 12:41:09.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DarknessVT666
+[16Jul2024 12:44:07.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2024 12:44:07.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2024 12:49:07.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2024 12:49:07.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
