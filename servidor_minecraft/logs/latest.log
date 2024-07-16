@@ -655,3 +655,19 @@ java.lang.IllegalArgumentException: Comparison method violates its general contr
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:44:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 joined the game
+[14:44:34] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: cuesta658_2[/127.35.224.194:54281] logged in with entity id 2056 at ([world]-1.5, 71.0, 109.5)
+[14:44:40] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of cuesta658_2 (18)
+[14:44:40] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to cuesta658_2
+[14:48:50] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType]: Skipping Entity with id 
+[14:48:50] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType]: Skipping Entity with id 
+[14:51:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [Stone Age]
+[14:52:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [Getting an Upgrade]
+[14:52:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [advancement.dungeons_arise.find_illager_corsair_or_illager_galley.title]
+[14:53:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 was slain by Vindicator
+[14:53:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [tombstone.advancement.first_grave.title]
+[14:53:07] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[14:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[14:53:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [tombstone.advancement.first_knowledge.title]
+[14:53:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [tombstone.advancement.ambush.title]
+[14:53:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [Monster Hunter]
