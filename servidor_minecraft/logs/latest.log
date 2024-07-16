@@ -1,11 +1,11 @@
-[02:21:34] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.0
-[02:21:34] [main/INFO]: Loading 4 mods:
+[05:00:10] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.0
+[05:00:10] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.0
 	   \-- mixinextras 0.4.0
 	- java 21
 	- minecraft 1.20.1
-[02:21:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mi-servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:21:39] [main/ERROR]: Failed to load properties from file: server.properties
+[05:00:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mi-servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:00:16] [main/ERROR]: Failed to load properties from file: server.properties
 java.nio.file.NoSuchFileException: server.properties
 	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
 	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
@@ -24,64 +24,66 @@ java.nio.file.NoSuchFileException: server.properties
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.0.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.0.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[02:21:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:21:41] [main/INFO]: Loaded 7 recipes
-[02:21:41] [main/INFO]: Loaded 1271 advancements
-[02:21:41] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:21:41] [Server thread/INFO]: Loading properties
-[02:21:41] [Server thread/INFO]: Default game type: SURVIVAL
-[02:21:41] [Server thread/INFO]: Generating keypair
-[02:21:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:21:41] [Server thread/INFO]: Using epoll channel type
-[02:21:42] [Server thread/INFO]: Preparing level "world"
-[02:21:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:21:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:21:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:21:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:21:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:21:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:21:49] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[02:21:50] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:21:50] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[02:21:51] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[02:21:51] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[02:21:52] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[02:21:52] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[02:21:53] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[02:21:53] [Worker-Main-3/INFO]: Preparing spawn area: 12%
-[02:21:54] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[02:21:54] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[02:21:55] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:21:55] [Worker-Main-3/INFO]: Preparing spawn area: 19%
-[02:21:56] [Worker-Main-3/INFO]: Preparing spawn area: 21%
-[02:21:56] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[02:21:57] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[02:21:57] [Worker-Main-2/INFO]: Preparing spawn area: 28%
-[02:21:58] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[02:21:58] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[02:21:59] [Worker-Main-2/INFO]: Preparing spawn area: 36%
-[02:21:59] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[02:22:00] [Worker-Main-2/INFO]: Preparing spawn area: 42%
-[02:22:00] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[02:22:01] [Worker-Main-3/INFO]: Preparing spawn area: 47%
-[02:22:01] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[02:22:02] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[02:22:02] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[02:22:03] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[02:22:03] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[02:22:04] [Worker-Main-3/INFO]: Preparing spawn area: 66%
-[02:22:04] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[02:22:05] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[02:22:05] [Worker-Main-2/INFO]: Preparing spawn area: 75%
-[02:22:06] [Worker-Main-1/INFO]: Preparing spawn area: 79%
-[02:22:06] [Worker-Main-1/INFO]: Preparing spawn area: 82%
-[02:22:07] [Worker-Main-1/INFO]: Preparing spawn area: 84%
-[02:22:07] [Worker-Main-2/INFO]: Preparing spawn area: 87%
-[02:22:08] [Worker-Main-1/INFO]: Preparing spawn area: 90%
-[02:22:08] [Worker-Main-3/INFO]: Preparing spawn area: 94%
-[02:22:09] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[02:22:09] [Worker-Main-3/INFO]: Preparing spawn area: 97%
-[02:22:10] [Server thread/INFO]: Time elapsed: 22828 ms
-[02:22:10] [Server thread/INFO]: Done (28.015s)! For help, type "help"
-[02:41:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:41:46] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/Mi-servidor/server.py<--[HERE]
+[05:00:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:00:18] [main/INFO]: Loaded 7 recipes
+[05:00:18] [main/INFO]: Loaded 1271 advancements
+[05:00:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[05:00:18] [Server thread/INFO]: Loading properties
+[05:00:18] [Server thread/INFO]: Default game type: SURVIVAL
+[05:00:18] [Server thread/INFO]: Generating keypair
+[05:00:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:00:18] [Server thread/INFO]: Using epoll channel type
+[05:00:18] [Server thread/INFO]: Preparing level "world"
+[05:00:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:00:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:00:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:00:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:26] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[05:00:26] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[05:00:27] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[05:00:27] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[05:00:28] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[05:00:28] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[05:00:29] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[05:00:29] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[05:00:30] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[05:00:30] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[05:00:31] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[05:00:31] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[05:00:32] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[05:00:32] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[05:00:33] [Worker-Main-1/INFO]: Preparing spawn area: 27%
+[05:00:33] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[05:00:34] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[05:00:34] [Worker-Main-2/INFO]: Preparing spawn area: 35%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[05:00:35] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[05:00:36] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[05:00:36] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[05:00:37] [Worker-Main-1/INFO]: Preparing spawn area: 49%
+[05:00:37] [Worker-Main-2/INFO]: Preparing spawn area: 52%
+[05:00:38] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[05:00:38] [Worker-Main-3/INFO]: Preparing spawn area: 56%
+[05:00:39] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[05:00:39] [Worker-Main-2/INFO]: Preparing spawn area: 61%
+[05:00:40] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[05:00:40] [Worker-Main-1/INFO]: Preparing spawn area: 68%
+[05:00:41] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[05:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[05:00:42] [Worker-Main-1/INFO]: Preparing spawn area: 75%
+[05:00:42] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[05:00:43] [Worker-Main-1/INFO]: Preparing spawn area: 82%
+[05:00:43] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[05:00:44] [Worker-Main-1/INFO]: Preparing spawn area: 86%
+[05:00:44] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[05:00:45] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[05:00:45] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[05:00:46] [Server thread/INFO]: Time elapsed: 22311 ms
+[05:00:46] [Server thread/INFO]: Done (27.285s)! For help, type "help"
+[05:01:22] [User Authenticator #1/INFO]: UUID of player DarknessVT666 is 378120f7-3a16-44b7-b363-6f44f6a18636
+[05:01:22] [Server thread/INFO]: DarknessVT666[/127.118.227.164:50949] logged in with entity id 211 at (189.5, 65.0, -116.5)
+[05:01:22] [Server thread/INFO]: DarknessVT666 joined the game
+[05:01:23] [Server thread/INFO]: DarknessVT666 lost connection: Disconnected
+[05:01:23] [Server thread/INFO]: DarknessVT666 left the game
