@@ -869,3 +869,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jul2024 12:41:09.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarknessVT666 lost connection: Disconnected
 [16Jul2024 12:41:09.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 left the game
 [16Jul2024 12:41:09.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DarknessVT666
+[16Jul2024 13:15:13.517] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DarknessVT666 is 378120f7-3a16-44b7-b363-6f44f6a18636
+[16Jul2024 13:15:20.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarknessVT666[/127.39.109.116:35661] logged in with entity id 4664 at (181.09393232413228, 68.0, 144.2654080437093)
+[16Jul2024 13:15:20.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 joined the game
+[16Jul2024 13:15:20.942] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DarknessVT666 (18)
+[16Jul2024 13:15:20.943] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DarknessVT666
+[16Jul2024 13:16:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 has made the advancement [Stone Age]
+[16Jul2024 13:16:32.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5052, l='ServerLevel[world]', x=124.50, y=71.00, z=86.50]
+[16Jul2024 13:16:46.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 has made the advancement [Getting an Upgrade]
+[16Jul2024 13:17:24.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5145, l='ServerLevel[world]', x=252.50, y=74.00, z=124.50]
+[16Jul2024 13:17:46.239] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5280, l='ServerLevel[world]', x=205.50, y=78.00, z=127.50]
+[16Jul2024 13:17:49.739] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5317, l='ServerLevel[world]', x=297.50, y=75.00, z=120.50]
+[16Jul2024 13:19:50.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarknessVT666 lost connection: Disconnected
+[16Jul2024 13:19:50.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 left the game
+[16Jul2024 13:19:50.102] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DarknessVT666
+[16Jul2024 13:20:07.149] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DarknessVT666 is 378120f7-3a16-44b7-b363-6f44f6a18636
+[16Jul2024 13:20:13.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarknessVT666[/127.39.109.116:45475] logged in with entity id 5789 at (296.0162420213043, 66.0, 257.07650375243213)
+[16Jul2024 13:20:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 joined the game
+[16Jul2024 13:20:14.123] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DarknessVT666 (18)
+[16Jul2024 13:20:14.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DarknessVT666
+[16Jul2024 13:23:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknessVT666: Set the time to 1000]
+[16Jul2024 13:23:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 was blown up by Creeper
+[16Jul2024 13:23:36.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknessVT666 has made the advancement [Your First Grave]
+[16Jul2024 13:23:36.817] [Server thread/INFO] [tombstone/]: The player DarknessVT666 has successfully been saved
