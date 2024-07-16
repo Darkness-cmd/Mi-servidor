@@ -841,3 +841,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16:09:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 lost connection: Disconnected
 [16:09:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client DarknessVT666
 [16:09:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 left the game
+[16:29:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 lost connection: Disconnected
+[16:29:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client cuesta658_2
+[16:29:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 left the game
