@@ -680,3 +680,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:39:58] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
 [15:40:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tp cuesta658_2
 [15:40:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Teleported DarknessVT666 to cuesta658_2]
+[15:42:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 fell from a high place
+[15:42:31] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:42:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /back
+[15:43:39] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /gamemode creative
+[15:43:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Set own game mode to Creative Mode]
+[15:43:42] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /gamemode survival
+[15:43:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Set own game mode to Survival Mode]
+[15:45:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 issued server command: /tpa DarknessVT666
+[15:45:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tpaccept 1B72E49C
+[15:45:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tpaccept 1B72E49C
+[15:46:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 issued server command: /tpa DarknessVT666
+[15:46:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tpaccept 32FEBCCC
+[15:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 was slain by Husk
+[15:46:53] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:46:57] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /back
+[15:47:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has made the advancement [tombstone.advancement.ashes_and_bones.title]
+[15:49:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tp cuesta658_2
+[15:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Teleported DarknessVT666 to cuesta658_2]
+[15:50:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 hit the ground too hard whilst trying to escape Husk
+[15:50:29] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:50:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 issued server command: /back
+[15:50:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /gamemode creative
+[15:50:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Set own game mode to Creative Mode]
+[15:50:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has made the advancement [Acquire Hardware]
+[15:52:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 walked into fire whilst fighting entity.born_in_chaos_v1.maggot
+[15:52:03] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:52:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 issued server command: /back
