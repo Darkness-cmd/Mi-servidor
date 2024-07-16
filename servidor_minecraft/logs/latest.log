@@ -83,3 +83,5 @@ java.nio.file.NoSuchFileException: server.properties
 [02:22:09] [Worker-Main-3/INFO]: Preparing spawn area: 97%
 [02:22:10] [Server thread/INFO]: Time elapsed: 22828 ms
 [02:22:10] [Server thread/INFO]: Done (28.015s)! For help, type "help"
+[02:41:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:41:46] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/Mi-servidor/server.py<--[HERE]
