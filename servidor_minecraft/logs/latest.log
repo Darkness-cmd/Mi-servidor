@@ -651,3 +651,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:27:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Set the time to 1000]
 [15:30:45] [pool-10-thread-1/INFO] [Supplementaries]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=69, y=70, z=965}
 [15:31:11] [pool-10-thread-1/INFO] [Supplementaries]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=91, y=69, z=1221}
+[15:35:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 joined the game
+[15:35:01] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: cuesta658_2[/127.35.224.194:44103] logged in with entity id 4628 at ([world]-126.30000001192093, 70.0, 695.6999999880791)
+[15:35:10] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of cuesta658_2 (18)
+[15:35:10] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to cuesta658_2
+[15:35:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /gamemode creative
+[15:35:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Set own game mode to Creative Mode]
+[15:35:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /gamemode survival
+[15:35:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Set own game mode to Survival Mode]
+[15:37:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has made the advancement [tombstone.advancement.find_grave_dust.title]
+[15:37:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has made the advancement [tombstone.advancement.prevent_death_darkness.title]
+[15:38:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 issued server command: /tpa DarknessVT666
+[15:38:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tell cuesta658_2
+[15:38:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tpaccept 0AEA933A
+[15:38:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 was slain by Skeleton
+[15:38:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has made the advancement [tombstone.advancement.first_grave.title]
+[15:38:39] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:38:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has reached the goal [tombstone.advancement.discreet_search.title]
+[15:38:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tp cuesta658_2
+[15:38:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Teleported DarknessVT666 to cuesta658_2]
+[15:38:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[15:39:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 was slain by Skeleton
+[15:39:00] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:39:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tp cuesta658_2
+[15:39:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Teleported DarknessVT666 to cuesta658_2]
+[15:39:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 has reached the goal [tombstone.advancement.chain_death.title]
+[15:39:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: DarknessVT666 was slain by entity.born_in_chaos_v1.corpse_fly
+[15:39:58] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[15:40:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: DarknessVT666 issued server command: /tp cuesta658_2
+[15:40:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [DarknessVT666: Teleported DarknessVT666 to cuesta658_2]
