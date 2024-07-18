@@ -677,3 +677,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:09:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [artifacts.advancements.amateur_archaeologist.title]
 [02:10:43] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType]: Skipping Entity with id 
 [02:12:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: cuesta658_2 has made the advancement [Ice Bucket Challenge]
+[02:20:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: death.attack.dragon_ice.attacker_1
+[02:20:42] [Server thread/INFO] [tombstone]: tombstone.message.recovery.save_player.success
+[02:20:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: cuesta658_2 issued server command: /back
+[02:25:47] [pool-10-thread-1/INFO] [Supplementaries]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=11, y=72, z=2155}
